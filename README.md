@@ -32,3 +32,11 @@ cd C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
 ```
 git clone git@github.com:luanbitar/csgo.git config
 ```
+
+## How to use
+
+Open terminal and run a cfg file with:
+
+```
+exec config/main
+```
