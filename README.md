@@ -12,7 +12,7 @@
 | Config option         | Value     |
 | --------------------- | --------- |
 | global shadow quality | `MEDIUM`  |
-| effect detai          | `HIGH`    |
+| effect detail         | `HIGH`    |
 | shader detail         | `HIGH`    |
 | boost player contrast | `ENABLED` |
 | multisampling         | `2x`      |
