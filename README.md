@@ -25,5 +25,10 @@
 
 ## Add config folder
 
-- cd C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\
-- git clone git@github.com:luanbitar/csgo.git
+```
+cd C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\
+```
+
+```
+git clone git@github.com:luanbitar/csgo.git config
+```
